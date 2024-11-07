@@ -94,5 +94,5 @@ resource "aws_iam_account_password_policy" "strict" {
 
 ## Terraform Providers Reference
 
--   [AWS] (https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+-   [AWS](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 -   [PGP](https://registry.terraform.io/providers/ekristen/pgp/latest/docs)
